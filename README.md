@@ -1,1 +1,1 @@
-Classying general ingredients on potato,corn and banana chips packages.
+Classifying general ingredients on potato,corn and banana chips packages.
